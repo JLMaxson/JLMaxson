@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Jackie Soper!
+# 👋 Hi there, I’m Jackie!
 
 🎓 I’m a Cybersecurity student at Utica University with a concentration in **Digital Forensics & Incident Response (DFIR)**  
 💻 Currently working as a IT Support Analyst and building hands-on experience in cybersecurity  
